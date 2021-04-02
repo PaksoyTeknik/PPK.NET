@@ -1,8 +1,8 @@
 {
 	"MajorVersion": 1,
 	"MinorVersion": 0,
-	"BuildVersion": 2,
-	"RevisionVersion": 1,
-	"UpdateUrl": "https://www.dropbox.com/s/lojfkx9ahpi5mvv/Paksoy-PPK-v1.0.2.exe?dl=1",
-	"UpdateInfo": "Yeni bir sürüm mevcut (v1.0.2)!\nŞimdi indirmek istiyor musunuz?\n\nv1.0.2\n- Rover, Base başlangıç ve bitiş tarihlerinin tespit edilmesi iyileştirildi.\n- Dosyaları sürekle bırak özellği iyileştirildi.\n- Programın kısayolu üzerine lisans dosyasını (.lic) okuması için sürükle bırak özelliği eklendi.\n- Bilinen hatalar düzeltildi."
+	"BuildVersion": 3,
+	"RevisionVersion": 0,
+	"UpdateUrl": "https://www.dropbox.com/s/wtx2uo1arerom74/Paksoy-PPK-v1.0.3.exe?dl=1",
+	"UpdateInfo": "Yeni bir sürüm mevcut (v1.0.3)!\nŞimdi indirmek istiyor musunuz?\n\nv1.0.3\n- Koordinat dönüştürücü eklendi.\n- Tps dosyasını okuma özelliği eklendi.\n- Bilinen hatalar düzeltildi."
 }
