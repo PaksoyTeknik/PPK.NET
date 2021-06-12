@@ -1,8 +1,8 @@
 {
 	"MajorVersion": 1,
 	"MinorVersion": 0,
-	"BuildVersion": 3,
+	"BuildVersion": 4,
 	"RevisionVersion": 0,
-	"UpdateUrl": "https://www.dropbox.com/s/ylaclb8gnl08xdd/Paksoy-PPK-v1.0.3.exe?dl=1",
-	"UpdateInfo": "Yeni bir sürüm mevcut (v1.0.3)!\nŞimdi indirmek istiyor musunuz?\n\nv1.0.3\n- Koordinat dönüştürücü eklendi.\n- Tps dosyasını okuma özelliği eklendi.\n- Bilinen hatalar düzeltildi."
+	"UpdateUrl": "https://www.dropbox.com/s/k7n4lkg7rdcu2yn/Paksoy-PPK-v1.0.4.exe?dl=1",
+	"UpdateInfo": "Yeni bir sürüm mevcut (v1.0.4)!\nŞimdi indirmek istiyor musunuz?\n\nv1.0.4\n- DJI M300 RTK desteği eklendi."
 }
