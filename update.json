@@ -1,8 +1,8 @@
 {
 	"MajorVersion": 1,
-	"MinorVersion": 0,
-	"BuildVersion": 7,
+	"MinorVersion": 1,
+	"BuildVersion": 0,
 	"RevisionVersion": 0,
-	"UpdateUrl": "https://www.dropbox.com/s/w4geo1d02jd8eoa/Paksoy-PPK-v1.0.7.exe?dl=1",
-	"UpdateInfo": "Yeni bir sürüm mevcut (v1.0.7)!\nŞimdi indirmek istiyor musunuz?\n\nv1.0.7\n- DJI Terra için çıktı türü eklendi.\n- Sadece resim yükleyerek Google Earth dosyası oluşturma özelliği eklendi.\n- Resimleri Exif'e dönüştürme hızı iyileştirildi."
+	"UpdateUrl": "https://www.dropbox.com/s/ukioeot1sgha1ui/Paksoy-PPK-v1.1.0.exe?dl=1",
+	"UpdateInfo": "Yeni bir sürüm mevcut (v1.1.0)!\nŞimdi indirmek istiyor musunuz?\n\nv1.1.0\n- PPK işlemi için iyileştirmeler yapıldı.\n- Anten tipi listesi güncellendi.\n- Bilinen hatalar düzeltildi."
 }
