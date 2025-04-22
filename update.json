@@ -1,8 +1,8 @@
 {
 	"MajorVersion": 1,
 	"MinorVersion": 1,
-	"BuildVersion": 1,
+	"BuildVersion": 2,
 	"RevisionVersion": 0,
-	"UpdateUrl": "https://www.dropbox.com/scl/fi/581ja1ynccahhvdxx6j1m/Paksoy-PPK-v1.1.1.exe?rlkey=kdcy7hn706qpwccb8q88z5vnj&dl=1",
-	"UpdateInfo": "Yeni bir sürüm mevcut (v1.1.1)!\nŞimdi indirmek istiyor musunuz?\n\nv1.1.1\n- İngilizce dil desteği eklendi.\n- Compact rinex okuma desteği eklendi.\n- Resimleri Exif'e dönüştürme işlemi iyileştirildi.\n- Bilinen hatalar düzeltildi."
+	"UpdateUrl": "https://www.dropbox.com/scl/fi/kgdeyb4mqsemmh53yy3oj/Paksoy-PPK-v1.1.2.exe?rlkey=s65qb1eut3an7qa9dal55i9m2&dl=1",
+	"UpdateInfo": "Yeni bir sürüm mevcut (v1.1.2)!\nŞimdi indirmek istiyor musunuz?\n\nv1.1.2\n- Anten tipi listesi güncellendi.\n- Bilinen hatalar düzeltildi."
 }
