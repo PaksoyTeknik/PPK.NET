@@ -4,5 +4,9 @@
 	"BuildVersion": 2,
 	"RevisionVersion": 0,
 	"UpdateUrl": "https://www.dropbox.com/scl/fi/kgdeyb4mqsemmh53yy3oj/Paksoy-PPK-v1.1.2.exe?rlkey=s65qb1eut3an7qa9dal55i9m2&dl=1",
-	"UpdateInfo": "Yeni bir sürüm mevcut (v1.1.2)!\nŞimdi indirmek istiyor musunuz?\n\nv1.1.2\n- Anten tipi listesi güncellendi.\n- Bilinen hatalar düzeltildi."
+	"UpdateInfo": "Yeni bir sürüm mevcut (v1.1.2)!\nŞimdi indirmek istiyor musunuz?\n\nv1.1.2\n- Anten tipi listesi güncellendi.\n- Bilinen hatalar düzeltildi.",
+	"UpdateInfoNew": {
+		"tr-TR": "Yeni bir sürüm mevcut (v1.1.2)!\nŞimdi indirmek istiyor musunuz?\n\nv1.1.2\n- Anten tipi listesi güncellendi.\n- Bilinen hatalar düzeltildi.",
+		"en-US": "A new version is available (v1.1.2)!\nDo you want to download it now?\n\nv1.1.2\n- Antenna type list updated.\n- Known bugs fixed.\n- Fixed known bugs."
+	}
 }
