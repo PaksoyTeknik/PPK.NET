@@ -1,12 +1,12 @@
 {
 	"MajorVersion": 1,
 	"MinorVersion": 1,
-	"BuildVersion": 2,
-	"RevisionVersion": 1,
-	"UpdateUrl": "https://www.dropbox.com/scl/fi/vfas9z1m3cecz0g3s4ti6/Paksoy-PPK-v1.1.2.exe?rlkey=o8zr273d6u801hoqtuef5dcrj&dl=1",
-	"UpdateInfo": "Yeni bir sürüm mevcut (v1.1.2)!\nŞimdi indirmek istiyor musunuz?\n\nv1.1.2\n- Anten tipi listesi güncellendi.\n- Bilinen hatalar düzeltildi.",
+	"BuildVersion": 3,
+	"RevisionVersion": 0,
+	"UpdateUrl": "https://www.dropbox.com/scl/fi/37n5bmfba5jrjfi323hh9/Paksoy-PPK-v1.1.3.exe?rlkey=ekmfeuid5yj30mty6a9nrl0jg&st=jcz40gj5&dl=1",
+	"UpdateInfo": "Yeni bir sürüm mevcut (v1.1.3)!\nŞimdi indirmek istiyor musunuz?\n\nv1.1.2\n- Anten tipi listesi güncellendi.",
 	"UpdateInfoNew": {
-		"tr-TR": "Yeni bir sürüm mevcut (v1.1.2)!\nŞimdi indirmek istiyor musunuz?\n\nv1.1.2\n- Anten tipi listesi güncellendi.\n- Bilinen hatalar düzeltildi.",
-		"en-US": "A new version is available (v1.1.2)!\nDo you want to download it now?\n\nv1.1.2\n- Antenna type list updated.\n- Known bugs fixed.\n- Fixed known bugs."
+		"tr-TR": "Yeni bir sürüm mevcut (v1.1.3)!\nŞimdi indirmek istiyor musunuz?\n\nv1.1.2\n- Anten tipi listesi güncellendi.",
+		"en-US": "A new version is available (v1.1.3)!\nDo you want to download it now?\n\nv1.1.2\n- Antenna type list updated.\n- Known bugs fixed."
 	}
 }
